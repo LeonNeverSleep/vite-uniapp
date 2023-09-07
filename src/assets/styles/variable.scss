@@ -1,0 +1,43 @@
+/* 样式变量 */
+
+// 底纯色
+$background_color: #123f54;
+
+// 图标色
+$icon_color: #45f9fd;
+
+// 预警色
+$warning_color: #ed5525;
+
+// 辅助色-状态
+$assistant_status_color: #29e7bd;
+
+// 辅助色-选中
+$assistant_selected_color: #ffcf3b;
+
+// 辅助色
+$assistant_color: #55aff9;
+
+// 文字色
+$font_color: #ffffff;
+
+// 底渐变色
+$background_gradient_color: linear-gradient(
+  to bottom,
+  rgba(#113f53, 0.4) 0%,
+  #0bc1c3 100%
+);
+
+// 选中色渐变
+$selected_gradient_color: linear-gradient(
+  to bottom,
+  rgba(#ffcf3b, 1) 50%,
+  #ffa13f 100%
+);
+
+// 按钮渐变色
+$button_gradient_color: linear-gradient(
+  to bottom,
+  rgba(#113f53, 0.6) 50%,
+  #0bc1c3 100%
+);
